@@ -1,0 +1,5 @@
+Component: main
+Origin: fyderepo
+Label: fyderepo
+Architecture: arm64
+Description: APT Repository for the Fydetab Duo
