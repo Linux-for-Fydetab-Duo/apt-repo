@@ -1,3 +1,39 @@
+Package: armbian-firmware
+Version: 20230712.git125181ca-4
+Architecture: all
+Maintainer: Joshua Riek <jjriek@verizon.net>
+Installed-Size: 168595
+Replaces: armbian-firmware, firmware-brcm80211, firmware-ralink, firmware-realtek, firmware-samsung, linux-firmware, orangepi-firmware
+Multi-Arch: foreign
+Homepage: https://github.com/Joshua-Riek/firmware/
+Priority: optional
+Section: kernel
+Filename: pool/main/a/armbian-firmware/armbian-firmware_20230712.git125181ca-4_all.deb
+Size: 57735176
+SHA512: 4c8ffdaa3d2d50ff665d04cd284ac55d5aec5b2954648b09e399c7b736436e23356acf8f9f148b4af820258a2a235b56338c2003a60577c3b0349b0944ea5e79
+SHA256: e1e55def1076dfa40fb508f3ebdce3f6a27e6555533276980fcbd13dccccec37
+SHA1: e0e6b7488e421d6c8f87dfbc40527116df791efe
+MD5sum: cba837790b0d8816bc27adffe9f2058f
+Description: Firmware for Linux kernel drivers
+ This package provides firmware used by Linux kernel drivers.
+
+Package: fydetabduo-post-install
+Version: 0.0.1
+Architecture: all
+Maintainer: Rippanda12 <panda@fydeos.io>
+Installed-Size: 319
+Depends: iio-sensor-proxy, x11-xserver-utils, xinput, iwd, armbian-firmware
+Priority: standard
+Section: admin
+Filename: pool/main/f/fydetabduo-post-install/fydetabduo-post-install_0.0.1_all.deb
+Size: 63640
+SHA512: df6f69809ed03aec4efe292957df797e49eea74d22552dff1840cc2b86335dcec5dc4a1e5fc0b2b6db147019365d5370e203c2440c136641ecefb302ee86dbda
+SHA256: 1b78fd301be4ee5e86255ef21bed60aade3dc6d4013da1f8f691fecb508fc4eb
+SHA1: 4953a4d05e7782295afedc5bda68f1de9a542b03
+MD5sum: fc7b316ee1236149acbd1582857926b2
+Description: Tweaks for the Fydetab Duo
+ Needed configuration files to make the Fydetab Duo work properly.
+
 Package: libd3dadapter9-mesa
 Source: mesa
 Version: 1:23.0.5-0~7~git221210.120202c6757
