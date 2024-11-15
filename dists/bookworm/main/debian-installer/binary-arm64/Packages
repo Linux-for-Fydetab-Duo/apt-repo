@@ -1,0 +1,17 @@
+Package: grub-mount-udeb
+Source: grub2
+Version: 2.06-13+deb12u1~1
+Architecture: arm64
+Maintainer: GRUB Maintainers <pkg-grub-devel@alioth-lists.debian.net>
+Installed-Size: 1699
+Depends: libc6-udeb (>= 2.36), libdevmapper1.02.1-udeb (>= 2:1.02.185), libfuse2-udeb (>= 2.9.9)
+Priority: optional
+Section: debian-installer
+Filename: pool/main/g/grub2/grub-mount-udeb_2.06-13+deb12u1~1_arm64.udeb
+Size: 404420
+SHA512: 8b2258e304e6f8c5d698eba6171375c72ac762e22cfe18bd7c0a4116eb6f21f6b58daacada72465944ba574fdc9352e6aa4913c82dddcc3f4e0c50684cb764c5
+SHA256: 043583666736b333bddf18eab161895ae7d166302d9cc70d499e419610a79632
+SHA1: eb7bd1c9115dc70ba8c9638e099065dbf16daef8
+MD5sum: 45e6577e4c149fdbec1880dee5345e43
+Description: export GRUB filesystems using FUSE
+
