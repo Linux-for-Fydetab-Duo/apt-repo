@@ -18,19 +18,19 @@ Description: Firmware for Linux kernel drivers
  This package provides firmware used by Linux kernel drivers.
 
 Package: fydetabduo-post-install
-Version: 0.0.1
+Version: 0.0.2
 Architecture: all
 Maintainer: Rippanda12 <panda@fydeos.io>
-Installed-Size: 319
+Installed-Size: 327
 Depends: iio-sensor-proxy, x11-xserver-utils, xinput, iwd, armbian-firmware
 Priority: standard
 Section: admin
-Filename: pool/main/f/fydetabduo-post-install/fydetabduo-post-install_0.0.1_all.deb
-Size: 63640
-SHA512: df6f69809ed03aec4efe292957df797e49eea74d22552dff1840cc2b86335dcec5dc4a1e5fc0b2b6db147019365d5370e203c2440c136641ecefb302ee86dbda
-SHA256: 1b78fd301be4ee5e86255ef21bed60aade3dc6d4013da1f8f691fecb508fc4eb
-SHA1: 4953a4d05e7782295afedc5bda68f1de9a542b03
-MD5sum: fc7b316ee1236149acbd1582857926b2
+Filename: pool/main/f/fydetabduo-post-install/fydetabduo-post-install_0.0.2_all.deb
+Size: 64460
+SHA512: 8989714b873a12ece2bd748cbbeb4c7fb86d4754cb8fbd6799c0b3ff75768384b1f1eb4cd5318a9275a3d4ad70809470a0cd19062658660c249162ceb154eac7
+SHA256: 719d5ee734140573e11f2f225817aa84b18bd7411e4ee7c1cb28ec6165585ab8
+SHA1: 068390ea0d4cb4082c8fa890c45c13e37024c228
+MD5sum: c93ef555f2eec311d23258fa5d82f45a
 Description: Tweaks for the Fydetab Duo
  Needed configuration files to make the Fydetab Duo work properly.
 

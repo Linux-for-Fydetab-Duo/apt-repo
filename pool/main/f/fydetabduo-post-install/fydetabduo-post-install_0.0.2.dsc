@@ -2,15 +2,15 @@ Format: 3.0 (native)
 Source: fydetabduo-post-install
 Binary: fydetabduo-post-install
 Architecture: all
-Version: 0.0.1
+Version: 0.0.2
 Maintainer: Rippanda12 <panda@fydeos.io>
 Standards-Version: 4.6.0
 Build-Depends: debhelper (>= 12~), devscripts, dh-exec
 Package-List:
  fydetabduo-post-install deb admin standard arch=all
 Checksums-Sha1:
- 6ac6e461dd549947f9e210d9b04d82d3c932af3d 73736 fydetabduo-post-install_0.0.1.tar.xz
+ 3f3b7b4a716a397afa6b2e00fba3d1adee9d68e2 73928 fydetabduo-post-install_0.0.2.tar.xz
 Checksums-Sha256:
- 239128b6d8019eed83384a672682169d723a3e74a83784d2ce3f135177e86e13 73736 fydetabduo-post-install_0.0.1.tar.xz
+ 2a4c47e97f24e781e6a99fd24e74b995d5cfdb5b7a32b6dd71dc12c88c6b533e 73928 fydetabduo-post-install_0.0.2.tar.xz
 Files:
- f0c1bc3af65f5f11257e65e5f8da6547 73736 fydetabduo-post-install_0.0.1.tar.xz
+ 9c681aa8da5da2a1e88e422f5c81b284 73928 fydetabduo-post-install_0.0.2.tar.xz
